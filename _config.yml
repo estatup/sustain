@@ -26,7 +26,7 @@ stackoverflow: username   #e.g: users/2735833/proton1h1
 disqus: username
 google_analytics: UA-69391421-1
 
-<div class="social">
+
           <a target="_blank" style="opacity: 1;" href="mailto:walmes@ufpr.br"><i class="fa fa-2x fa-envelope"></i></a>
           <a target="_blank" style="opacity: 1;" href="http://lattes.cnpq.br/4410617539281650"><i class="ai ai-2x ai-lattes"></i></a>
           <a target="_blank" style="opacity: 1;" href="https://scholar.google.com.br/citations?user=pb-91n8AAAAJ"><i class="ai ai-2x ai-google-scholar"></i></a>
@@ -39,7 +39,7 @@ google_analytics: UA-69391421-1
           <a target="_blank" style="opacity: 1;" href="https://twitter.com/walmeszeviani"><i class="fa fa-2x fa-twitter"></i></a>
           <!-- <a target="_blank" style="opacity: 1;" href="TODO"><i class="ai ai-2x ai-orcid"></i></a> -->
 
-        </div>
+
         
 # navbar pages
 navbar:
