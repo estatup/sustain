@@ -18,24 +18,6 @@ author: Eduardo Vargas Ferreira
 description: Personal blog and resume
 avatar: profile1.png
 email: e.ferreira@ufpr.br
-github: estatup/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
-
-
-        
-# navbar pages
-navbar:
-  - slug: about
-    title: About
-  - slug: icons
-    title: Icons
-  - slug: blog
-    title: Blog
     
 # needed for travis-ci build
 exclude: [vendor]
