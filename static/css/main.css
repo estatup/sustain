@@ -97,7 +97,7 @@ body {
   margin: 20px 0;
 }
 .container a {
-  color: #27A822;
+  color: #2980b9;
 }
 .container a:hover {
   color: #267723;
@@ -121,7 +121,7 @@ body {
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #27A822;
+  color: #2980b9;
 }
 .panel-default h4 a:hover, h5 a:hover {
   color: #267723;
@@ -175,7 +175,7 @@ body {
 	color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 5px solid #27A822;;
+  border-bottom: 5px solid #2980b9;;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
