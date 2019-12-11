@@ -26,20 +26,36 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+	  <link rel="stylesheet" href="{{ site.baseurl }}static/css/base.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}static/css/skeleton.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}static/css/layout.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> 
+	  
+	  
+	  
 	<!-- Custom styles for this template -->
+	  <!--
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}static/css/main.css" />
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}static/css/syntax.css" />
-
+-->
     <!-- Google Analytics -->
     {% include analytics.html %}
   </head>
   <!-- Main Body-->
   <body>
-	 
+	<a class="navbar-brand" href="{{ site.baseurl }}"><i class="fa fa-lg fa-home"></i></a>
+<div class="container">
+    
+    <div class="thirteen columns clearfix">
+	  
+	  
+	  
+	  
   <!-- Wrap all page content here -->
-  <div id="wrap">
+  
+	    <!--<div id="wrap">-->
 	  
     <!-- Navbar header -->
    <!-- {% include header.html %}-->
@@ -47,6 +63,7 @@
     {{ content }}
 
   </div>
+	</div>
   <!-- Footer -->
   {% include footer.html %}
 
