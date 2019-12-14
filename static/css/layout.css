@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
 
 body {
+    background-image: url("{{ site.baseurl }}/assets/images/ufpr1.png");
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 21px;
